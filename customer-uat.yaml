@@ -6,8 +6,8 @@ build:
 customer:
     message: "Welcome to MyBank account related REST APIs - UAT"
     contactDetails:
-        name: "Vivek Gohil"
-        email: "mahesh.patil@mahadiscom.in"
+        name: "Laxman Jadhav"
+        email: "laxman.jadhav@mahadiscom.in"
     onCallSupport:
         - 8888777771
         - 5555444442
