@@ -6,7 +6,7 @@ build:
 accounts:
     message: "Welcome to MyBank account related REST APIs - UAT"
     contactDetails:
-        name: "Mahesh Patil"
+        name: "badrinath funde"
         email: "mahesh.patil@mahadiscom.in"
     onCallSupport:
         - 8888777771
