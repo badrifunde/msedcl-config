@@ -3,10 +3,10 @@
 build:
     version: "1.0"
 
-accounts:
+customer:
     message: "Welcome to MyBank account related REST APIs - UAT"
     contactDetails:
-        name: "badrinath funde"
+        name: "Vivek Gohil"
         email: "mahesh.patil@mahadiscom.in"
     onCallSupport:
         - 8888777771
